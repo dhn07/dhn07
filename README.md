@@ -3,7 +3,7 @@
 
 ### Hi there! 
 
-I'm Daniel, an experienced financial sercices professional with a passion for data analytics and data driven decision making.
+I'm Daniel, an experienced financial services professional with a passion for data analytics and data driven decision making.
 
 #### :coffee:  Revelant skills:
 - SQL
