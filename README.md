@@ -26,4 +26,4 @@ Feel free to take a quick look at some of my personal projects below.
 
 #### 🙌 Connect with Me:
 
-Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/dhn07)
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dhn07)
